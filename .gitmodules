@@ -21,7 +21,7 @@
 	url = https://github.com/cloudfoundry/uaa-release
 [submodule "src/dea-hm-workspace"]
 	path = src/dea-hm-workspace
-	url = https://github.com/alekseimakarevich/dea-hm-workspace
+	url = https://github.com/alekseimakarevich/dea-hm-workspace.git
 [submodule "src/capi-release"]
 	path = src/capi-release
 	url = https://github.com/cloudfoundry/capi-release
